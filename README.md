@@ -66,5 +66,5 @@ Tech: Python, Redis, Celery
 
 ## 📫 Contact
 
-- LinkedIn: https:/linkedin.com/in/terry-tipton-65360738a
+- LinkedIn: https://www.linkedin.com/in/terry-tipton-65360738a
 - Email: terrytipton388@gmail.com
