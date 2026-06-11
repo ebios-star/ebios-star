@@ -61,10 +61,3 @@ Tech: Next.js, Node.js, PostgreSQL, Stripe
 Backend system for processing workflows and event-driven tasks.
 
 Tech: Python, Redis, Celery
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/terry-tipton-65360738a
-- Email: terrytipton388@gmail.com
